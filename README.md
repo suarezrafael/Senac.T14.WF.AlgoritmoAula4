@@ -7,6 +7,7 @@
 
 Abaixo um exemplo de operador lógico
 
+em C#
 ```csharp
 bool contaPaga = true;
 if(contaPaga){
